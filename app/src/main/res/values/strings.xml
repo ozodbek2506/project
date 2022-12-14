@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vulputate volutpat cursus euismod nunc sapien. Dictum id hac feugiat laoreet.</string>
+    <string name="welcome_onb">Welcome Onboard</string>
+    <string name="lets_help_y">Lets help you meet up your tasks</string>
+    <string name="already_hav">Already have an account ?</string>
+    <string name="already_havnt">Dont have an account?</string>
+
+
+</resources>
